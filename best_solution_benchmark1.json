@@ -1,0 +1,2754 @@
+{
+    "U_25large_10": {
+        "Total Distances": 2538.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 191.0,
+                "route": "o 18 30 1 24 3 o* "
+            },
+            {
+                "distance": 1022.0,
+                "route": "o 39 32 48 17 0 37 15 46 13 2 o* "
+            },
+            {
+                "distance": 1325.0,
+                "route": "o 20 5 6 7 26 9 41 11 4 8 o* "
+            }
+        ]
+    },
+    "U_25large_1": {
+        "Total Distances": 2423.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1438.0,
+                "route": "o 40 4 35 16 6 5 9 10 41 7 o* "
+            },
+            {
+                "distance": 812.0,
+                "route": "o 23 26 3 2 1 29 8 21 49 o* "
+            },
+            {
+                "distance": 173.0,
+                "route": "o 15 13 45 0 19 34 o* "
+            }
+        ]
+    },
+    "U_25large_2": {
+        "Total Distances": 2797.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 701.0,
+                "route": "o 10 12 1 17 30 27 41 5 o* "
+            },
+            {
+                "distance": 627.0,
+                "route": "o 7 25 34 2 3 0 4 8 o* "
+            },
+            {
+                "distance": 1469.0,
+                "route": "o 38 18 9 14 20 6 46 48 35 o* "
+            }
+        ]
+    },
+    "U_25large_3": {
+        "Total Distances": 2107.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 820.0,
+                "route": "o 48 5 25 22 3 37 7 43 31 o* "
+            },
+            {
+                "distance": 366.0,
+                "route": "o 28 46 4 34 8 39 o* "
+            },
+            {
+                "distance": 921.0,
+                "route": "o 18 16 14 9 1 0 11 6 13 2 o* "
+            }
+        ]
+    },
+    "U_25large_4": {
+        "Total Distances": 2411.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1212.0,
+                "route": "o 12 18 42 6 9 45 5 14 o* "
+            },
+            {
+                "distance": 480.0,
+                "route": "o 33 1 25 49 40 11 2 o* "
+            },
+            {
+                "distance": 719.0,
+                "route": "o 27 21 3 30 4 37 8 7 0 17 o* "
+            }
+        ]
+    },
+    "U_25large_5": {
+        "Total Distances": 1995.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 781.0,
+                "route": "o 35 10 5 33 4 26 25 0 21 o* "
+            },
+            {
+                "distance": 424.0,
+                "route": "o 38 3 2 17 1 43 15 12 9 o* "
+            },
+            {
+                "distance": 790.0,
+                "route": "o 29 7 45 8 48 6 18 o* "
+            }
+        ]
+    },
+    "U_25large_6": {
+        "Total Distances": 2272.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 885.0,
+                "route": "o 34 28 0 25 9 20 13 19 1 o* "
+            },
+            {
+                "distance": 510.0,
+                "route": "o 7 5 37 4 30 2 o* "
+            },
+            {
+                "distance": 877.0,
+                "route": "o 44 10 6 8 38 43 49 15 17 3 o* "
+            }
+        ]
+    },
+    "U_25large_7": {
+        "Total Distances": 2237.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 788.0,
+                "route": "o 26 13 1 41 3 2 20 16 44 o* "
+            },
+            {
+                "distance": 489.0,
+                "route": "o 7 5 10 9 37 31 8 o* "
+            },
+            {
+                "distance": 960.0,
+                "route": "o 47 14 4 0 34 38 6 23 19 o* "
+            }
+        ]
+    },
+    "U_25large_8": {
+        "Total Distances": 2586.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 616.0,
+                "route": "o 41 3 31 18 36 o* "
+            },
+            {
+                "distance": 813.0,
+                "route": "o 25 33 49 7 5 45 10 38 20 o* "
+            },
+            {
+                "distance": 1157.0,
+                "route": "o 8 12 0 1 27 15 6 16 2 4 9 o* "
+            }
+        ]
+    },
+    "U_25large_9": {
+        "Total Distances": 2996.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1227.0,
+                "route": "o 3 25 2 20 9 12 48 0 1 o* "
+            },
+            {
+                "distance": 994.0,
+                "route": "o 5 29 6 44 40 33 15 4 8 26 o* "
+            },
+            {
+                "distance": 775.0,
+                "route": "o 16 7 42 11 35 18 o* "
+            }
+        ]
+    },
+    "U_25medium_10": {
+        "Total Distances": 2716.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 927.0,
+                "route": "o 3 13 27 15 47 11 17 46 8 41 o* "
+            },
+            {
+                "distance": 1425.0,
+                "route": "o 5 38 6 31 33 4 21 18 7 23 9 o* "
+            },
+            {
+                "distance": 364.0,
+                "route": "o 37 0 1 2 o* "
+            }
+        ]
+    },
+    "U_25medium_1": {
+        "Total Distances": 2400.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 775.0,
+                "route": "o 18 6 14 12 7 o* "
+            },
+            {
+                "distance": 1067.0,
+                "route": "o 46 31 37 3 32 8 2 4 17 22 o* "
+            },
+            {
+                "distance": 558.0,
+                "route": "o 9 39 11 0 49 43 27 1 5 23 o* "
+            }
+        ]
+    },
+    "U_25medium_2": {
+        "Total Distances": 2290.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 844.0,
+                "route": "o 3 4 31 6 10 8 42 5 o* "
+            },
+            {
+                "distance": 760.0,
+                "route": "o 28 49 0 2 19 23 17 46 33 7 o* "
+            },
+            {
+                "distance": 686.0,
+                "route": "o 15 21 1 36 38 9 12 o* "
+            }
+        ]
+    },
+    "U_25medium_3": {
+        "Total Distances": 1525.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 643.0,
+                "route": "o 39 6 7 26 19 1 21 44 o* "
+            },
+            {
+                "distance": 94.0,
+                "route": "o 37 0 25 2 13 34 3 o* "
+            },
+            {
+                "distance": 788.0,
+                "route": "o 42 5 11 17 15 9 4 30 8 48 o* "
+            }
+        ]
+    },
+    "U_25medium_4": {
+        "Total Distances": 2578.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 427.0,
+                "route": "o 36 9 13 33 1 16 29 o* "
+            },
+            {
+                "distance": 967.0,
+                "route": "o 5 15 25 0 2 3 6 42 o* "
+            },
+            {
+                "distance": 1184.0,
+                "route": "o 8 27 4 19 45 22 40 11 47 7 o* "
+            }
+        ]
+    },
+    "U_25medium_5": {
+        "Total Distances": 2074.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 271.0,
+                "route": "o 3 30 0 39 7 o* "
+            },
+            {
+                "distance": 945.0,
+                "route": "o 14 16 11 43 6 1 4 33 9 47 o* "
+            },
+            {
+                "distance": 858.0,
+                "route": "o 8 19 46 27 23 36 2 13 22 5 o* "
+            }
+        ]
+    },
+    "U_25medium_6": {
+        "Total Distances": 2594.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1042.0,
+                "route": "o 28 12 8 11 24 31 9 6 o* "
+            },
+            {
+                "distance": 966.0,
+                "route": "o 48 42 4 0 3 1 7 5 o* "
+            },
+            {
+                "distance": 586.0,
+                "route": "o 14 40 2 19 17 46 33 21 35 o* "
+            }
+        ]
+    },
+    "U_25medium_7": {
+        "Total Distances": 1566.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 757.0,
+                "route": "o 5 26 6 22 31 4 1 33 0 43 o* "
+            },
+            {
+                "distance": 184.0,
+                "route": "o 37 40 15 11 3 9 o* "
+            },
+            {
+                "distance": 625.0,
+                "route": "o 25 19 49 2 17 12 44 7 8 o* "
+            }
+        ]
+    },
+    "U_25medium_8": {
+        "Total Distances": 2065.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 323.0,
+                "route": "o 12 4 2 43 16 o* "
+            },
+            {
+                "distance": 734.0,
+                "route": "o 1 28 11 0 3 7 6 47 9 o* "
+            },
+            {
+                "distance": 1008.0,
+                "route": "o 23 14 30 37 19 38 8 33 21 46 5 o* "
+            }
+        ]
+    },
+    "U_25medium_9": {
+        "Total Distances": 1916.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1009.0,
+                "route": "o 41 15 3 30 37 5 9 2 16 o* "
+            },
+            {
+                "distance": 380.0,
+                "route": "o 8 11 0 33 12 44 o* "
+            },
+            {
+                "distance": 527.0,
+                "route": "o 49 28 4 19 6 40 22 1 25 7 o* "
+            }
+        ]
+    },
+    "U_25small_10": {
+        "Total Distances": 2535.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1533.0,
+                "route": "o 5 22 46 27 4 6 10 8 7 42 o* "
+            },
+            {
+                "distance": 751.0,
+                "route": "o 9 33 1 31 2 40 15 18 25 3 o* "
+            },
+            {
+                "distance": 251.0,
+                "route": "o 35 13 17 0 48 o* "
+            }
+        ]
+    },
+    "U_25small_1": {
+        "Total Distances": 2188.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 254.0,
+                "route": "o 30 34 2 40 14 o* "
+            },
+            {
+                "distance": 828.0,
+                "route": "o 5 24 49 19 27 22 4 11 13 9 o* "
+            },
+            {
+                "distance": 1106.0,
+                "route": "o 35 6 0 3 1 46 7 41 8 17 o* "
+            }
+        ]
+    },
+    "U_25small_2": {
+        "Total Distances": 2805.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 897.0,
+                "route": "o 0 3 22 47 5 38 10 o* "
+            },
+            {
+                "distance": 1005.0,
+                "route": "o 45 14 7 42 4 34 1 13 35 o* "
+            },
+            {
+                "distance": 903.0,
+                "route": "o 26 25 19 9 31 2 17 6 8 o* "
+            }
+        ]
+    },
+    "U_25small_3": {
+        "Total Distances": 2460.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 816.0,
+                "route": "o 8 1 28 40 17 4 46 15 9 42 o* "
+            },
+            {
+                "distance": 1470.0,
+                "route": "o 18 30 11 6 5 7 47 21 3 34 37 o* "
+            },
+            {
+                "distance": 174.0,
+                "route": "o 24 13 2 0 o* "
+            }
+        ]
+    },
+    "U_25small_4": {
+        "Total Distances": 2994.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 616.0,
+                "route": "o 4 0 2 38 9 35 o* "
+            },
+            {
+                "distance": 1259.0,
+                "route": "o 7 33 49 3 31 20 12 8 42 o* "
+            },
+            {
+                "distance": 1119.0,
+                "route": "o 27 11 24 44 5 14 6 17 19 1 o* "
+            }
+        ]
+    },
+    "U_25small_5": {
+        "Total Distances": 2580.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 370.0,
+                "route": "o 28 1 24 21 4 5 6 9 o* "
+            },
+            {
+                "distance": 1142.0,
+                "route": "o 34 0 11 8 17 2 14 36 3 12 o* "
+            },
+            {
+                "distance": 1068.0,
+                "route": "o 7 38 41 45 49 19 31 o* "
+            }
+        ]
+    },
+    "U_25small_6": {
+        "Total Distances": 1689.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 829.0,
+                "route": "o 7 23 1 28 0 6 9 44 o* "
+            },
+            {
+                "distance": 565.0,
+                "route": "o 13 17 11 40 22 32 31 49 37 o* "
+            },
+            {
+                "distance": 295.0,
+                "route": "o 8 4 2 3 19 15 5 42 o* "
+            }
+        ]
+    },
+    "U_25small_7": {
+        "Total Distances": 2454.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 903.0,
+                "route": "o 10 31 24 7 4 49 40 0 3 22 o* "
+            },
+            {
+                "distance": 1084.0,
+                "route": "o 9 36 17 28 2 1 12 32 15 19 o* "
+            },
+            {
+                "distance": 467.0,
+                "route": "o 42 6 8 5 44 o* "
+            }
+        ]
+    },
+    "U_25small_8": {
+        "Total Distances": 1861.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 502.0,
+                "route": "o 8 7 5 12 40 1 17 22 o* "
+            },
+            {
+                "distance": 1037.0,
+                "route": "o 3 19 28 30 24 34 11 37 2 6 o* "
+            },
+            {
+                "distance": 322.0,
+                "route": "o 15 46 4 0 49 9 41 o* "
+            }
+        ]
+    },
+    "U_25small_9": {
+        "Total Distances": 2992.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1232.0,
+                "route": "o 20 30 43 3 2 0 5 16 26 8 18 o* "
+            },
+            {
+                "distance": 1333.0,
+                "route": "o 9 14 1 4 37 6 47 7 45 o* "
+            },
+            {
+                "distance": 427.0,
+                "route": "o 10 25 34 40 12 o* "
+            }
+        ]
+    },
+    "U_50large_10": {
+        "Total Distances": 4244.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 171.0,
+                "route": "o 20 83 o* "
+            },
+            {
+                "distance": 618.0,
+                "route": "o 55 93 35 9 1 4 3 23 14 o* "
+            },
+            {
+                "distance": 359.0,
+                "route": "o 11 80 30 42 54 69 62 58 74 o* "
+            },
+            {
+                "distance": 1021.0,
+                "route": "o 15 32 18 49 77 90 0 5 99 12 o* "
+            },
+            {
+                "distance": 1125.0,
+                "route": "o 38 94 13 26 8 6 36 29 47 64 o* "
+            },
+            {
+                "distance": 950.0,
+                "route": "o 43 86 16 10 17 19 7 71 25 2 o* "
+            }
+        ]
+    },
+    "U_50large_1": {
+        "Total Distances": 4349.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 458.0,
+                "route": "o 11 75 65 31 8 29 3 72 o* "
+            },
+            {
+                "distance": 1478.0,
+                "route": "o 69 55 16 38 18 17 94 93 33 4 o* "
+            },
+            {
+                "distance": 725.0,
+                "route": "o 19 14 80 44 5 9 42 1 7 53 46 o* "
+            },
+            {
+                "distance": 823.0,
+                "route": "o 12 83 23 51 78 85 0 6 37 24 o* "
+            },
+            {
+                "distance": 30.0,
+                "route": "o 61 o* "
+            },
+            {
+                "distance": 835.0,
+                "route": "o 27 21 2 59 15 99 10 34 88 13 o* "
+            }
+        ]
+    },
+    "U_50large_2": {
+        "Total Distances": 4238.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 633.0,
+                "route": "o 96 63 39 72 3 68 21 5 6 25 o* "
+            },
+            {
+                "distance": 1188.0,
+                "route": "o 37 11 19 14 58 2 90 50 10 73 32 o* "
+            },
+            {
+                "distance": 445.0,
+                "route": "o 15 18 7 44 53 35 84 o* "
+            },
+            {
+                "distance": 975.0,
+                "route": "o 16 13 93 12 17 29 31 81 1 o* "
+            },
+            {
+                "distance": 907.0,
+                "route": "o 76 22 48 41 27 0 9 98 4 o* "
+            },
+            {
+                "distance": 90.0,
+                "route": "o 65 87 56 8 o* "
+            }
+        ]
+    },
+    "U_50large_3": {
+        "Total Distances": 3309.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 969.0,
+                "route": "o 95 13 11 10 18 75 99 90 15 o* "
+            },
+            {
+                "distance": 709.0,
+                "route": "o 26 32 4 8 14 56 9 3 23 67 o* "
+            },
+            {
+                "distance": 831.0,
+                "route": "o 80 12 16 45 84 66 35 59 47 38 o* "
+            },
+            {
+                "distance": 520.0,
+                "route": "o 19 17 37 1 31 0 93 54 77 85 o* "
+            },
+            {
+                "distance": 280.0,
+                "route": "o 7 29 21 25 5 62 41 6 50 2 72 o* "
+            }
+        ]
+    },
+    "U_50large_4": {
+        "Total Distances": 4493.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 910.0,
+                "route": "o 89 11 61 14 13 18 72 51 46 o* "
+            },
+            {
+                "distance": 1039.0,
+                "route": "o 52 25 60 8 7 23 45 66 3 29 o* "
+            },
+            {
+                "distance": 694.0,
+                "route": "o 32 77 10 35 21 2 5 9 74 15 17 o* "
+            },
+            {
+                "distance": 910.0,
+                "route": "o 80 19 0 27 95 12 37 4 85 30 o* "
+            },
+            {
+                "distance": 940.0,
+                "route": "o 42 84 99 56 1 16 6 93 69 38 o* "
+            }
+        ]
+    },
+    "U_50large_5": {
+        "Total Distances": 3517.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 461.0,
+                "route": "o 18 91 45 3 57 39 96 15 22 11 o* "
+            },
+            {
+                "distance": 742.0,
+                "route": "o 20 89 19 0 62 66 59 37 70 86 o* "
+            },
+            {
+                "distance": 46.0,
+                "route": "o 14 o* "
+            },
+            {
+                "distance": 997.0,
+                "route": "o 24 2 52 80 50 9 13 4 33 o* "
+            },
+            {
+                "distance": 352.0,
+                "route": "o 84 29 1 26 68 31 35 6 47 40 o* "
+            },
+            {
+                "distance": 919.0,
+                "route": "o 73 12 97 8 7 10 17 16 5 77 o* "
+            }
+        ]
+    },
+    "U_50large_6": {
+        "Total Distances": 4013.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 537.0,
+                "route": "o 83 17 68 4 81 5 7 16 61 o* "
+            },
+            {
+                "distance": 1096.0,
+                "route": "o 1 37 87 72 6 15 18 12 0 3 53 o* "
+            },
+            {
+                "distance": 791.0,
+                "route": "o 48 99 29 25 93 27 50 56 38 14 o* "
+            },
+            {
+                "distance": 706.0,
+                "route": "o 21 8 35 65 32 42 78 73 43 11 o* "
+            },
+            {
+                "distance": 883.0,
+                "route": "o 22 2 9 10 95 19 89 13 59 31 o* "
+            }
+        ]
+    },
+    "U_50large_7": {
+        "Total Distances": 3336.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 1049.0,
+                "route": "o 27 23 35 57 75 6 5 86 16 83 88 95 o* "
+            },
+            {
+                "distance": 358.0,
+                "route": "o 17 32 43 59 69 25 30 15 o* "
+            },
+            {
+                "distance": 879.0,
+                "route": "o 4 65 13 19 10 12 37 8 3 93 o* "
+            },
+            {
+                "distance": 614.0,
+                "route": "o 80 70 18 1 2 48 50 39 9 14 o* "
+            },
+            {
+                "distance": 436.0,
+                "route": "o 20 53 78 0 28 11 7 99 62 42 o* "
+            }
+        ]
+    },
+    "U_50large_8": {
+        "Total Distances": 3886.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 464.0,
+                "route": "o 73 19 23 48 2 35 39 86 37 59 o* "
+            },
+            {
+                "distance": 616.0,
+                "route": "o 15 1 68 45 96 82 14 97 16 o* "
+            },
+            {
+                "distance": 600.0,
+                "route": "o 92 40 81 3 7 8 0 4 29 21 53 o* "
+            },
+            {
+                "distance": 1085.0,
+                "route": "o 6 9 33 5 64 10 24 30 11 70 o* "
+            },
+            {
+                "distance": 1121.0,
+                "route": "o 55 77 51 13 17 26 61 12 18 89 o* "
+            }
+        ]
+    },
+    "U_50large_9": {
+        "Total Distances": 3614.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 666.0,
+                "route": "o 98 40 60 47 29 72 24 16 43 15 o* "
+            },
+            {
+                "distance": 534.0,
+                "route": "o 30 74 65 5 0 87 56 37 6 90 o* "
+            },
+            {
+                "distance": 980.0,
+                "route": "o 12 10 17 76 14 2 7 93 3 51 22 o* "
+            },
+            {
+                "distance": 1036.0,
+                "route": "o 13 8 63 35 39 4 9 96 20 11 o* "
+            },
+            {
+                "distance": 398.0,
+                "route": "o 84 33 54 69 1 81 26 19 18 o* "
+            }
+        ]
+    },
+    "U_50medium_10": {
+        "Total Distances": 4274.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 1372.0,
+                "route": "o 31 59 84 1 15 86 17 10 11 36 o* "
+            },
+            {
+                "distance": 829.0,
+                "route": "o 13 16 97 40 93 57 26 80 94 o* "
+            },
+            {
+                "distance": 793.0,
+                "route": "o 76 19 70 12 2 90 25 0 69 62 54 o* "
+            },
+            {
+                "distance": 914.0,
+                "route": "o 14 18 20 28 8 7 5 34 51 23 o* "
+            },
+            {
+                "distance": 366.0,
+                "route": "o 39 33 75 3 65 6 45 4 9 46 o* "
+            }
+        ]
+    },
+    "U_50medium_1": {
+        "Total Distances": 4402.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 603.0,
+                "route": "o 28 32 98 14 60 63 2 8 23 40 o* "
+            },
+            {
+                "distance": 1153.0,
+                "route": "o 31 80 18 38 11 17 53 90 9 74 o* "
+            },
+            {
+                "distance": 991.0,
+                "route": "o 13 21 3 93 19 48 66 72 25 15 o* "
+            },
+            {
+                "distance": 716.0,
+                "route": "o 69 5 44 57 6 36 16 34 12 o* "
+            },
+            {
+                "distance": 817.0,
+                "route": "o 76 10 1 27 7 51 4 96 84 0 o* "
+            },
+            {
+                "distance": 122.0,
+                "route": "o 86 o* "
+            }
+        ]
+    },
+    "U_50medium_2": {
+        "Total Distances": 3385.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 523.0,
+                "route": "o 20 45 1 41 23 37 35 7 33 71 o* "
+            },
+            {
+                "distance": 850.0,
+                "route": "o 95 78 63 47 10 18 19 o* "
+            },
+            {
+                "distance": 1141.0,
+                "route": "o 92 55 12 64 8 9 25 13 15 o* "
+            },
+            {
+                "distance": 445.0,
+                "route": "o 14 27 3 75 31 58 87 50 16 o* "
+            },
+            {
+                "distance": 380.0,
+                "route": "o 29 5 53 84 68 39 99 81 17 11 o* "
+            },
+            {
+                "distance": 46.0,
+                "route": "o 0 4 6 2 90 o* "
+            }
+        ]
+    },
+    "U_50medium_3": {
+        "Total Distances": 4301.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 399.0,
+                "route": "o 7 72 82 36 58 5 87 63 41 52 o* "
+            },
+            {
+                "distance": 263.0,
+                "route": "o 11 77 o* "
+            },
+            {
+                "distance": 861.0,
+                "route": "o 31 96 0 39 44 57 81 2 33 o* "
+            },
+            {
+                "distance": 882.0,
+                "route": "o 14 20 13 66 1 3 17 51 99 8 10 o* "
+            },
+            {
+                "distance": 981.0,
+                "route": "o 25 15 12 16 9 4 6 89 28 o* "
+            },
+            {
+                "distance": 915.0,
+                "route": "o 48 67 92 26 19 34 74 22 18 o* "
+            }
+        ]
+    },
+    "U_50medium_4": {
+        "Total Distances": 3399.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 580.0,
+                "route": "o 36 10 34 39 81 50 59 27 84 0 o* "
+            },
+            {
+                "distance": 40.0,
+                "route": "o 68 65 2 o* "
+            },
+            {
+                "distance": 1244.0,
+                "route": "o 14 92 70 89 52 85 16 19 15 18 o* "
+            },
+            {
+                "distance": 404.0,
+                "route": "o 17 43 28 42 96 5 25 75 46 o* "
+            },
+            {
+                "distance": 444.0,
+                "route": "o 4 6 11 13 7 8 31 3 o* "
+            },
+            {
+                "distance": 687.0,
+                "route": "o 63 56 33 20 22 9 99 1 12 77 o* "
+            }
+        ]
+    },
+    "U_50medium_5": {
+        "Total Distances": 3337.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 822.0,
+                "route": "o 93 84 42 33 17 15 2 31 6 12 o* "
+            },
+            {
+                "distance": 426.0,
+                "route": "o 37 72 54 28 14 8 51 59 79 o* "
+            },
+            {
+                "distance": 1134.0,
+                "route": "o 1 87 11 18 13 43 19 48 56 3 o* "
+            },
+            {
+                "distance": 549.0,
+                "route": "o 77 5 25 96 69 0 7 63 66 88 16 o* "
+            },
+            {
+                "distance": 406.0,
+                "route": "o 38 9 21 35 73 26 99 4 23 10 o* "
+            }
+        ]
+    },
+    "U_50medium_6": {
+        "Total Distances": 5683.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 1129.0,
+                "route": "o 2 14 61 85 5 8 9 11 19 o* "
+            },
+            {
+                "distance": 703.0,
+                "route": "o 34 33 37 75 82 1 60 48 44 52 o* "
+            },
+            {
+                "distance": 1096.0,
+                "route": "o 93 96 56 0 69 72 16 12 49 78 o* "
+            },
+            {
+                "distance": 244.0,
+                "route": "o 80 98 o* "
+            },
+            {
+                "distance": 1475.0,
+                "route": "o 26 20 38 29 30 18 13 6 7 o* "
+            },
+            {
+                "distance": 1036.0,
+                "route": "o 15 64 90 23 42 17 10 25 4 3 o* "
+            }
+        ]
+    },
+    "U_50medium_7": {
+        "Total Distances": 4581.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 708.0,
+                "route": "o 39 33 3 91 19 22 73 76 15 o* "
+            },
+            {
+                "distance": 970.0,
+                "route": "o 58 83 34 30 17 70 6 29 13 o* "
+            },
+            {
+                "distance": 581.0,
+                "route": "o 5 81 1 87 62 4 9 96 42 0 36 o* "
+            },
+            {
+                "distance": 983.0,
+                "route": "o 18 21 65 45 8 90 68 52 14 10 46 o* "
+            },
+            {
+                "distance": 1339.0,
+                "route": "o 11 7 98 55 16 12 2 50 24 26 o* "
+            }
+        ]
+    },
+    "U_50medium_8": {
+        "Total Distances": 3543.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 503.0,
+                "route": "o 98 78 1 2 23 69 35 42 19 61 o* "
+            },
+            {
+                "distance": 659.0,
+                "route": "o 11 48 39 0 7 10 81 57 12 o* "
+            },
+            {
+                "distance": 511.0,
+                "route": "o 87 9 44 64 15 74 8 5 50 92 o* "
+            },
+            {
+                "distance": 811.0,
+                "route": "o 16 26 36 72 90 59 6 3 4 84 13 o* "
+            },
+            {
+                "distance": 1059.0,
+                "route": "o 20 14 30 24 17 95 52 28 32 18 o* "
+            }
+        ]
+    },
+    "U_50medium_9": {
+        "Total Distances": 3112.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 600.0,
+                "route": "o 34 86 9 5 98 17 45 47 78 56 94 o* "
+            },
+            {
+                "distance": 1072.0,
+                "route": "o 6 63 15 18 80 16 88 12 14 66 o* "
+            },
+            {
+                "distance": 754.0,
+                "route": "o 28 50 41 21 30 32 19 10 0 7 o* "
+            },
+            {
+                "distance": 313.0,
+                "route": "o 11 72 8 93 27 4 23 58 2 o* "
+            },
+            {
+                "distance": 373.0,
+                "route": "o 13 24 84 75 37 39 3 52 1 68 o* "
+            }
+        ]
+    },
+    "U_50small_10": {
+        "Total Distances": 3387.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 998.0,
+                "route": "o 55 24 88 15 79 36 22 60 13 16 o* "
+            },
+            {
+                "distance": 180.0,
+                "route": "o 33 8 0 53 75 2 5 4 82 o* "
+            },
+            {
+                "distance": 183.0,
+                "route": "o 28 38 85 o* "
+            },
+            {
+                "distance": 1129.0,
+                "route": "o 17 49 91 7 12 64 71 11 o* "
+            },
+            {
+                "distance": 319.0,
+                "route": "o 18 6 1 31 10 35 63 96 21 69 o* "
+            },
+            {
+                "distance": 578.0,
+                "route": "o 19 14 3 42 9 44 27 47 78 98 o* "
+            }
+        ]
+    },
+    "U_50small_1": {
+        "Total Distances": 4512.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 774.0,
+                "route": "o 10 18 9 23 84 37 3 65 27 12 95 o* "
+            },
+            {
+                "distance": 881.0,
+                "route": "o 13 16 39 53 0 55 71 24 86 o* "
+            },
+            {
+                "distance": 585.0,
+                "route": "o 73 35 31 7 8 51 60 5 42 43 o* "
+            },
+            {
+                "distance": 1062.0,
+                "route": "o 11 17 81 33 63 2 4 48 69 76 o* "
+            },
+            {
+                "distance": 1210.0,
+                "route": "o 21 6 89 14 15 1 29 98 19 91 o* "
+            }
+        ]
+    },
+    "U_50small_2": {
+        "Total Distances": 4622.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 334.0,
+                "route": "o 96 42 93 68 12 8 1 4 51 o* "
+            },
+            {
+                "distance": 493.0,
+                "route": "o 19 65 75 87 57 3 44 35 63 o* "
+            },
+            {
+                "distance": 1323.0,
+                "route": "o 22 6 32 15 16 14 99 79 88 o* "
+            },
+            {
+                "distance": 296.0,
+                "route": "o 82 36 70 o* "
+            },
+            {
+                "distance": 1396.0,
+                "route": "o 77 26 60 9 25 38 13 48 18 11 o* "
+            },
+            {
+                "distance": 780.0,
+                "route": "o 17 28 52 31 0 21 7 5 2 10 o* "
+            }
+        ]
+    },
+    "U_50small_3": {
+        "Total Distances": 3746.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 281.0,
+                "route": "o 18 25 54 27 87 41 21 45 90 4 10 o* "
+            },
+            {
+                "distance": 975.0,
+                "route": "o 9 33 34 67 17 59 7 29 48 11 o* "
+            },
+            {
+                "distance": 1250.0,
+                "route": "o 14 99 56 16 38 12 30 63 65 76 o* "
+            },
+            {
+                "distance": 436.0,
+                "route": "o 51 6 92 1 37 0 8 2 15 o* "
+            },
+            {
+                "distance": 804.0,
+                "route": "o 22 82 75 3 5 96 80 13 70 19 o* "
+            }
+        ]
+    },
+    "U_50small_4": {
+        "Total Distances": 3842.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 792.0,
+                "route": "o 15 78 72 5 60 0 7 48 25 85 o* "
+            },
+            {
+                "distance": 960.0,
+                "route": "o 61 31 33 44 81 8 3 22 11 26 o* "
+            },
+            {
+                "distance": 696.0,
+                "route": "o 13 96 84 9 18 20 34 o* "
+            },
+            {
+                "distance": 278.0,
+                "route": "o 92 64 74 12 19 o* "
+            },
+            {
+                "distance": 357.0,
+                "route": "o 4 6 52 17 38 37 1 68 2 o* "
+            },
+            {
+                "distance": 759.0,
+                "route": "o 57 90 40 49 14 97 28 16 10 o* "
+            }
+        ]
+    },
+    "U_50small_5": {
+        "Total Distances": 3627.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 678.0,
+                "route": "o 7 6 26 14 19 66 11 50 59 78 o* "
+            },
+            {
+                "distance": 396.0,
+                "route": "o 25 22 20 93 57 3 99 4 83 o* "
+            },
+            {
+                "distance": 780.0,
+                "route": "o 79 53 72 42 39 90 35 47 15 16 17 o* "
+            },
+            {
+                "distance": 869.0,
+                "route": "o 85 1 29 2 69 9 33 8 95 36 12 o* "
+            },
+            {
+                "distance": 904.0,
+                "route": "o 61 74 10 43 5 31 0 18 13 o* "
+            }
+        ]
+    },
+    "U_50small_6": {
+        "Total Distances": 3188.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 475.0,
+                "route": "o 97 51 0 82 9 57 39 93 81 o* "
+            },
+            {
+                "distance": 250.0,
+                "route": "o 29 31 42 25 89 69 33 94 o* "
+            },
+            {
+                "distance": 516.0,
+                "route": "o 13 15 17 72 45 75 1 54 37 7 o* "
+            },
+            {
+                "distance": 653.0,
+                "route": "o 20 2 59 4 23 5 62 66 48 3 o* "
+            },
+            {
+                "distance": 1089.0,
+                "route": "o 10 18 12 19 8 6 35 78 14 26 o* "
+            },
+            {
+                "distance": 205.0,
+                "route": "o 11 16 86 o* "
+            }
+        ]
+    },
+    "U_50small_7": {
+        "Total Distances": 3066.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 581.0,
+                "route": "o 89 13 30 86 8 66 6 75 41 33 o* "
+            },
+            {
+                "distance": 660.0,
+                "route": "o 19 71 11 81 99 0 37 2 1 93 o* "
+            },
+            {
+                "distance": 74.0,
+                "route": "o 58 o* "
+            },
+            {
+                "distance": 1033.0,
+                "route": "o 28 15 51 3 9 5 62 16 38 o* "
+            },
+            {
+                "distance": 413.0,
+                "route": "o 17 18 10 4 47 7 96 52 12 84 o* "
+            },
+            {
+                "distance": 305.0,
+                "route": "o 57 35 27 14 69 25 78 45 23 21 o* "
+            }
+        ]
+    },
+    "U_50small_8": {
+        "Total Distances": 4488.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 119.0,
+                "route": "o 40 26 o* "
+            },
+            {
+                "distance": 1080.0,
+                "route": "o 49 12 39 75 93 7 33 84 19 58 o* "
+            },
+            {
+                "distance": 1007.0,
+                "route": "o 23 9 18 70 94 16 17 45 2 21 o* "
+            },
+            {
+                "distance": 834.0,
+                "route": "o 46 30 10 15 66 6 1 53 37 3 o* "
+            },
+            {
+                "distance": 274.0,
+                "route": "o 99 29 4 8 62 57 68 25 0 o* "
+            },
+            {
+                "distance": 1174.0,
+                "route": "o 14 89 87 5 11 78 35 81 13 o* "
+            }
+        ]
+    },
+    "U_50small_9": {
+        "Total Distances": 3460.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 927.0,
+                "route": "o 12 2 8 39 48 13 52 17 94 16 o* "
+            },
+            {
+                "distance": 913.0,
+                "route": "o 14 57 20 26 75 90 70 43 19 15 o* "
+            },
+            {
+                "distance": 596.0,
+                "route": "o 97 31 68 59 81 3 1 77 18 65 o* "
+            },
+            {
+                "distance": 578.0,
+                "route": "o 85 32 0 5 10 22 40 6 35 51 o* "
+            },
+            {
+                "distance": 446.0,
+                "route": "o 84 9 62 93 4 7 29 24 11 36 o* "
+            }
+        ]
+    },
+    "V_25large_10": {
+        "Total Distances": 2604.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 819.0,
+                "route": "o 5 0 35 17 19 8 3 23 6 o* "
+            },
+            {
+                "distance": 877.0,
+                "route": "o 30 15 2 4 7 10 28 20 o* "
+            },
+            {
+                "distance": 908.0,
+                "route": "o 11 9 13 37 1 33 25 27 o* "
+            }
+        ]
+    },
+    "V_25large_1": {
+        "Total Distances": 1990.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 842.0,
+                "route": "o 37 25 3 11 8 22 33 2 15 30 o* "
+            },
+            {
+                "distance": 238.0,
+                "route": "o 10 16 21 1 0 o* "
+            },
+            {
+                "distance": 910.0,
+                "route": "o 28 13 19 4 7 6 27 35 5 9 o* "
+            }
+        ]
+    },
+    "V_25large_2": {
+        "Total Distances": 2342.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 202.0,
+                "route": "o 4 13 1 5 0 3 29 o* "
+            },
+            {
+                "distance": 1358.0,
+                "route": "o 15 11 36 27 17 8 20 7 6 o* "
+            },
+            {
+                "distance": 782.0,
+                "route": "o 10 24 22 19 31 35 2 9 32 o* "
+            }
+        ]
+    },
+    "V_25large_3": {
+        "Total Distances": 1627.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 685.0,
+                "route": "o 0 14 6 9 11 10 3 13 17 19 o* "
+            },
+            {
+                "distance": 228.0,
+                "route": "o 22 29 37 31 27 1 o* "
+            },
+            {
+                "distance": 714.0,
+                "route": "o 5 4 33 2 21 24 8 7 34 o* "
+            }
+        ]
+    },
+    "V_25large_4": {
+        "Total Distances": 2444.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1167.0,
+                "route": "o 9 2 37 35 27 29 5 7 10 11 o* "
+            },
+            {
+                "distance": 825.0,
+                "route": "o 31 20 6 0 4 14 1 25 3 17 o* "
+            },
+            {
+                "distance": 452.0,
+                "route": "o 32 22 12 18 8 o* "
+            }
+        ]
+    },
+    "V_25large_5": {
+        "Total Distances": 2064.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 713.0,
+                "route": "o 33 27 22 5 4 3 8 10 24 16 o* "
+            },
+            {
+                "distance": 911.0,
+                "route": "o 2 1 0 37 6 14 20 35 29 13 o* "
+            },
+            {
+                "distance": 440.0,
+                "route": "o 18 9 30 11 7 o* "
+            }
+        ]
+    },
+    "V_25large_6": {
+        "Total Distances": 2129.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 186.0,
+                "route": "o 27 4 17 3 o* "
+            },
+            {
+                "distance": 773.0,
+                "route": "o 5 31 21 0 24 1 35 8 7 6 o* "
+            },
+            {
+                "distance": 1170.0,
+                "route": "o 10 9 14 22 19 29 13 11 37 33 2 o* "
+            }
+        ]
+    },
+    "V_25large_7": {
+        "Total Distances": 1533.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 341.0,
+                "route": "o 11 27 19 3 29 23 7 o* "
+            },
+            {
+                "distance": 803.0,
+                "route": "o 2 25 6 31 33 4 36 8 10 9 o* "
+            },
+            {
+                "distance": 389.0,
+                "route": "o 14 13 35 5 0 1 20 16 o* "
+            }
+        ]
+    },
+    "V_25large_8": {
+        "Total Distances": 1930.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 209.0,
+                "route": "o 11 2 27 31 17 o* "
+            },
+            {
+                "distance": 656.0,
+                "route": "o 15 1 0 23 4 35 5 3 18 o* "
+            },
+            {
+                "distance": 1065.0,
+                "route": "o 6 20 8 32 7 10 9 29 25 13 37 o* "
+            }
+        ]
+    },
+    "V_25large_9": {
+        "Total Distances": 2484.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 961.0,
+                "route": "o 0 21 2 5 31 29 7 11 34 o* "
+            },
+            {
+                "distance": 1135.0,
+                "route": "o 13 3 19 8 9 24 33 17 4 1 37 o* "
+            },
+            {
+                "distance": 388.0,
+                "route": "o 6 10 27 23 15 o* "
+            }
+        ]
+    },
+    "V_25medium_10": {
+        "Total Distances": 2442.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 672.0,
+                "route": "o 22 33 4 29 10 2 9 19 1 5 o* "
+            },
+            {
+                "distance": 516.0,
+                "route": "o 20 7 34 11 14 o* "
+            },
+            {
+                "distance": 1254.0,
+                "route": "o 8 0 27 25 3 31 13 37 16 6 o* "
+            }
+        ]
+    },
+    "V_25medium_1": {
+        "Total Distances": 2320.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1201.0,
+                "route": "o 3 35 5 6 8 9 7 1 29 0 o* "
+            },
+            {
+                "distance": 622.0,
+                "route": "o 26 10 4 37 25 19 31 21 13 o* "
+            },
+            {
+                "distance": 497.0,
+                "route": "o 2 33 17 14 22 11 o* "
+            }
+        ]
+    },
+    "V_25medium_2": {
+        "Total Distances": 2177.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 319.0,
+                "route": "o 14 37 0 4 11 35 1 o* "
+            },
+            {
+                "distance": 1014.0,
+                "route": "o 27 33 8 2 3 25 7 12 6 16 o* "
+            },
+            {
+                "distance": 844.0,
+                "route": "o 5 21 23 19 28 10 30 9 o* "
+            }
+        ]
+    },
+    "V_25medium_3": {
+        "Total Distances": 2299.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1122.0,
+                "route": "o 34 22 36 25 4 0 13 10 7 14 6 o* "
+            },
+            {
+                "distance": 246.0,
+                "route": "o 5 3 1 21 o* "
+            },
+            {
+                "distance": 931.0,
+                "route": "o 9 29 31 17 2 33 26 11 19 8 o* "
+            }
+        ]
+    },
+    "V_25medium_4": {
+        "Total Distances": 2904.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 910.0,
+                "route": "o 7 20 36 28 24 30 2 15 33 34 o* "
+            },
+            {
+                "distance": 724.0,
+                "route": "o 6 16 10 9 11 o* "
+            },
+            {
+                "distance": 1270.0,
+                "route": "o 22 3 5 1 8 4 18 0 27 12 o* "
+            }
+        ]
+    },
+    "V_25medium_5": {
+        "Total Distances": 2797.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 407.0,
+                "route": "o 14 4 5 23 37 13 27 25 16 o* "
+            },
+            {
+                "distance": 625.0,
+                "route": "o 1 33 2 0 8 30 7 o* "
+            },
+            {
+                "distance": 1765.0,
+                "route": "o 21 3 34 11 9 28 6 10 18 o* "
+            }
+        ]
+    },
+    "V_25medium_6": {
+        "Total Distances": 2501.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1358.0,
+                "route": "o 7 26 14 34 8 33 19 22 10 9 o* "
+            },
+            {
+                "distance": 459.0,
+                "route": "o 4 0 3 1 25 21 16 o* "
+            },
+            {
+                "distance": 684.0,
+                "route": "o 11 6 29 31 13 2 5 37 o* "
+            }
+        ]
+    },
+    "V_25medium_7": {
+        "Total Distances": 2474.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1084.0,
+                "route": "o 10 22 37 31 35 17 25 14 28 o* "
+            },
+            {
+                "distance": 1070.0,
+                "route": "o 11 6 8 32 18 27 0 1 9 o* "
+            },
+            {
+                "distance": 320.0,
+                "route": "o 5 2 13 3 4 21 7 o* "
+            }
+        ]
+    },
+    "V_25medium_8": {
+        "Total Distances": 2423.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1265.0,
+                "route": "o 12 10 28 30 7 20 11 26 25 o* "
+            },
+            {
+                "distance": 647.0,
+                "route": "o 35 2 5 8 17 3 33 9 o* "
+            },
+            {
+                "distance": 511.0,
+                "route": "o 36 22 19 1 0 15 4 6 o* "
+            }
+        ]
+    },
+    "V_25medium_9": {
+        "Total Distances": 2099.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 839.0,
+                "route": "o 32 18 23 5 8 26 1 13 15 25 o* "
+            },
+            {
+                "distance": 721.0,
+                "route": "o 28 20 3 0 4 36 9 o* "
+            },
+            {
+                "distance": 539.0,
+                "route": "o 11 10 2 6 7 35 31 17 o* "
+            }
+        ]
+    },
+    "V_25small_10": {
+        "Total Distances": 2910.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 858.0,
+                "route": "o 18 7 30 9 24 10 o* "
+            },
+            {
+                "distance": 873.0,
+                "route": "o 1 35 17 37 3 0 13 2 26 o* "
+            },
+            {
+                "distance": 1179.0,
+                "route": "o 20 15 5 4 23 29 11 32 8 6 o* "
+            }
+        ]
+    },
+    "V_25small_1": {
+        "Total Distances": 2876.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 517.0,
+                "route": "o 26 31 3 5 17 1 23 21 36 o* "
+            },
+            {
+                "distance": 1034.0,
+                "route": "o 2 19 11 35 13 4 0 32 24 8 o* "
+            },
+            {
+                "distance": 1325.0,
+                "route": "o 14 7 6 28 10 9 o* "
+            }
+        ]
+    },
+    "V_25small_2": {
+        "Total Distances": 2638.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1215.0,
+                "route": "o 10 15 1 0 21 31 5 6 19 33 25 o* "
+            },
+            {
+                "distance": 426.0,
+                "route": "o 7 26 11 12 o* "
+            },
+            {
+                "distance": 997.0,
+                "route": "o 9 8 36 29 2 3 35 17 4 23 o* "
+            }
+        ]
+    },
+    "V_25small_3": {
+        "Total Distances": 2716.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 906.0,
+                "route": "o 11 29 33 19 31 8 3 5 15 24 o* "
+            },
+            {
+                "distance": 532.0,
+                "route": "o 6 37 17 4 23 0 20 o* "
+            },
+            {
+                "distance": 1278.0,
+                "route": "o 34 7 12 1 2 27 9 10 o* "
+            }
+        ]
+    },
+    "V_25small_4": {
+        "Total Distances": 2781.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1064.0,
+                "route": "o 7 13 3 35 8 32 20 19 11 14 28 o* "
+            },
+            {
+                "distance": 1122.0,
+                "route": "o 36 9 31 6 10 o* "
+            },
+            {
+                "distance": 595.0,
+                "route": "o 16 5 25 1 0 27 2 4 23 o* "
+            }
+        ]
+    },
+    "V_25small_5": {
+        "Total Distances": 2401.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 1074.0,
+                "route": "o 27 3 9 36 6 7 11 o* "
+            },
+            {
+                "distance": 873.0,
+                "route": "o 29 4 2 5 31 35 32 8 16 o* "
+            },
+            {
+                "distance": 454.0,
+                "route": "o 0 25 19 1 23 15 13 10 20 o* "
+            }
+        ]
+    },
+    "V_25small_6": {
+        "Total Distances": 2723.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 792.0,
+                "route": "o 12 35 17 11 30 o* "
+            },
+            {
+                "distance": 1018.0,
+                "route": "o 7 24 10 33 3 4 19 37 28 6 o* "
+            },
+            {
+                "distance": 913.0,
+                "route": "o 8 14 9 21 5 27 0 2 23 1 o* "
+            }
+        ]
+    },
+    "V_25small_7": {
+        "Total Distances": 1941.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 535.0,
+                "route": "o 32 6 3 27 4 13 35 2 11 o* "
+            },
+            {
+                "distance": 878.0,
+                "route": "o 8 9 28 15 23 17 5 21 0 24 o* "
+            },
+            {
+                "distance": 528.0,
+                "route": "o 37 31 1 18 7 10 o* "
+            }
+        ]
+    },
+    "V_25small_8": {
+        "Total Distances": 2366.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 655.0,
+                "route": "o 11 0 3 4 22 15 31 20 8 o* "
+            },
+            {
+                "distance": 1055.0,
+                "route": "o 7 32 9 27 5 17 6 o* "
+            },
+            {
+                "distance": 656.0,
+                "route": "o 10 25 19 35 1 13 2 29 37 o* "
+            }
+        ]
+    },
+    "V_25small_9": {
+        "Total Distances": 2817.0,
+        "Total Vehicles": 3.0,
+        "Routes": [
+            {
+                "distance": 935.0,
+                "route": "o 5 19 20 14 26 31 37 24 o* "
+            },
+            {
+                "distance": 828.0,
+                "route": "o 17 4 35 6 7 8 22 11 o* "
+            },
+            {
+                "distance": 1054.0,
+                "route": "o 9 10 2 1 0 29 3 32 12 o* "
+            }
+        ]
+    },
+    "V_50large_10": {
+        "Total Distances": 3745.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 399.0,
+                "route": "o 67 5 10 41 8 4 47 49 30 27 o* "
+            },
+            {
+                "distance": 984.0,
+                "route": "o 56 69 43 12 2 51 70 14 23 6 o* "
+            },
+            {
+                "distance": 108.0,
+                "route": "o 21 45 11 o* "
+            },
+            {
+                "distance": 876.0,
+                "route": "o 28 22 20 16 9 35 0 24 17 58 o* "
+            },
+            {
+                "distance": 646.0,
+                "route": "o 15 63 7 37 75 53 73 1 55 o* "
+            },
+            {
+                "distance": 732.0,
+                "route": "o 13 64 32 19 39 3 60 18 o* "
+            }
+        ]
+    },
+    "V_50large_1": {
+        "Total Distances": 4332.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 814.0,
+                "route": "o 62 57 41 37 8 55 1 25 61 17 o* "
+            },
+            {
+                "distance": 693.0,
+                "route": "o 9 35 0 31 14 72 3 75 42 23 18 o* "
+            },
+            {
+                "distance": 1438.0,
+                "route": "o 2 10 70 19 58 22 7 21 33 o* "
+            },
+            {
+                "distance": 436.0,
+                "route": "o 13 66 6 45 11 39 5 4 27 64 o* "
+            },
+            {
+                "distance": 951.0,
+                "route": "o 20 16 48 50 15 47 52 12 69 28 o* "
+            }
+        ]
+    },
+    "V_50large_2": {
+        "Total Distances": 3492.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 721.0,
+                "route": "o 59 71 29 22 1 6 21 46 20 68 o* "
+            },
+            {
+                "distance": 633.0,
+                "route": "o 55 33 65 23 19 56 14 o* "
+            },
+            {
+                "distance": 742.0,
+                "route": "o 74 3 35 18 4 11 25 2 31 o* "
+            },
+            {
+                "distance": 283.0,
+                "route": "o 16 45 49 53 42 o* "
+            },
+            {
+                "distance": 519.0,
+                "route": "o 17 72 13 67 37 61 8 10 26 62 o* "
+            },
+            {
+                "distance": 594.0,
+                "route": "o 40 7 51 5 9 0 15 12 38 o* "
+            }
+        ]
+    },
+    "V_50large_3": {
+        "Total Distances": 3995.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 660.0,
+                "route": "o 15 19 17 28 57 69 37 4 9 6 o* "
+            },
+            {
+                "distance": 818.0,
+                "route": "o 21 50 48 71 43 44 38 30 61 25 73 o* "
+            },
+            {
+                "distance": 758.0,
+                "route": "o 14 5 55 41 62 23 53 18 26 66 o* "
+            },
+            {
+                "distance": 936.0,
+                "route": "o 65 13 10 75 1 20 2 11 59 22 o* "
+            },
+            {
+                "distance": 823.0,
+                "route": "o 16 33 47 3 12 35 8 0 7 o* "
+            }
+        ]
+    },
+    "V_50large_4": {
+        "Total Distances": 3470.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 1074.0,
+                "route": "o 21 66 13 37 65 29 61 15 14 16 o* "
+            },
+            {
+                "distance": 542.0,
+                "route": "o 23 49 1 63 33 69 57 18 39 o* "
+            },
+            {
+                "distance": 527.0,
+                "route": "o 45 71 31 17 19 74 42 7 10 22 40 o* "
+            },
+            {
+                "distance": 667.0,
+                "route": "o 58 0 35 53 12 2 6 55 8 46 o* "
+            },
+            {
+                "distance": 660.0,
+                "route": "o 73 25 20 50 5 9 11 3 4 26 o* "
+            }
+        ]
+    },
+    "V_50large_5": {
+        "Total Distances": 3332.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 611.0,
+                "route": "o 51 72 64 8 2 41 68 3 59 11 o* "
+            },
+            {
+                "distance": 627.0,
+                "route": "o 14 70 18 60 30 49 4 45 10 0 o* "
+            },
+            {
+                "distance": 723.0,
+                "route": "o 15 56 17 20 46 13 1 6 37 39 o* "
+            },
+            {
+                "distance": 636.0,
+                "route": "o 12 75 63 16 23 22 33 9 7 55 o* "
+            },
+            {
+                "distance": 735.0,
+                "route": "o 19 21 28 52 34 66 25 27 5 43 o* "
+            }
+        ]
+    },
+    "V_50large_6": {
+        "Total Distances": 3857.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 398.0,
+                "route": "o 43 63 6 9 59 1 71 45 10 31 o* "
+            },
+            {
+                "distance": 637.0,
+                "route": "o 33 49 20 16 34 38 67 54 18 12 o* "
+            },
+            {
+                "distance": 1134.0,
+                "route": "o 25 3 11 8 40 14 21 13 72 7 37 o* "
+            },
+            {
+                "distance": 761.0,
+                "route": "o 65 51 69 5 53 4 27 57 75 15 o* "
+            },
+            {
+                "distance": 927.0,
+                "route": "o 23 2 61 0 17 19 28 22 46 o* "
+            }
+        ]
+    },
+    "V_50large_7": {
+        "Total Distances": 3719.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 715.0,
+                "route": "o 57 39 73 7 2 55 5 68 30 48 o* "
+            },
+            {
+                "distance": 1154.0,
+                "route": "o 70 20 15 22 16 21 32 29 11 1 o* "
+            },
+            {
+                "distance": 798.0,
+                "route": "o 18 6 65 51 19 14 62 52 45 17 o* "
+            },
+            {
+                "distance": 583.0,
+                "route": "o 3 61 37 43 13 47 10 34 40 12 o* "
+            },
+            {
+                "distance": 469.0,
+                "route": "o 23 0 8 67 25 4 27 9 59 75 o* "
+            }
+        ]
+    },
+    "V_50large_8": {
+        "Total Distances": 3893.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 1007.0,
+                "route": "o 1 33 25 7 35 8 22 39 3 2 o* "
+            },
+            {
+                "distance": 484.0,
+                "route": "o 20 62 45 11 37 75 27 48 53 o* "
+            },
+            {
+                "distance": 593.0,
+                "route": "o 51 4 19 57 69 47 59 55 30 18 o* "
+            },
+            {
+                "distance": 846.0,
+                "route": "o 23 12 28 15 43 61 6 65 67 13 o* "
+            },
+            {
+                "distance": 131.0,
+                "route": "o 21 70 o* "
+            },
+            {
+                "distance": 832.0,
+                "route": "o 9 5 16 10 0 73 41 14 17 o* "
+            }
+        ]
+    },
+    "V_50large_9": {
+        "Total Distances": 3678.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 718.0,
+                "route": "o 4 34 5 45 11 39 2 16 18 o* "
+            },
+            {
+                "distance": 333.0,
+                "route": "o 22 6 7 42 33 31 25 71 o* "
+            },
+            {
+                "distance": 755.0,
+                "route": "o 20 23 17 73 67 65 53 37 57 o* "
+            },
+            {
+                "distance": 248.0,
+                "route": "o 51 69 47 8 o* "
+            },
+            {
+                "distance": 858.0,
+                "route": "o 12 75 29 3 61 15 21 48 40 13 o* "
+            },
+            {
+                "distance": 766.0,
+                "route": "o 62 1 26 58 14 19 0 55 10 9 o* "
+            }
+        ]
+    },
+    "V_50medium_10": {
+        "Total Distances": 3958.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 483.0,
+                "route": "o 6 57 2 41 45 55 15 16 50 34 o* "
+            },
+            {
+                "distance": 669.0,
+                "route": "o 75 25 8 7 62 4 29 71 12 18 o* "
+            },
+            {
+                "distance": 1025.0,
+                "route": "o 13 43 11 0 59 22 23 3 1 10 o* "
+            },
+            {
+                "distance": 1269.0,
+                "route": "o 60 52 48 17 69 5 20 14 38 46 31 o* "
+            },
+            {
+                "distance": 512.0,
+                "route": "o 26 19 21 73 33 67 9 65 36 o* "
+            }
+        ]
+    },
+    "V_50medium_1": {
+        "Total Distances": 4020.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 1134.0,
+                "route": "o 48 18 70 17 58 29 7 1 5 o* "
+            },
+            {
+                "distance": 755.0,
+                "route": "o 40 3 22 63 55 23 2 35 10 16 o* "
+            },
+            {
+                "distance": 551.0,
+                "route": "o 14 42 38 20 6 0 4 21 74 o* "
+            },
+            {
+                "distance": 609.0,
+                "route": "o 72 50 12 64 61 33 67 53 11 69 o* "
+            },
+            {
+                "distance": 971.0,
+                "route": "o 19 8 31 37 15 26 13 9 45 46 57 25 o* "
+            }
+        ]
+    },
+    "V_50medium_2": {
+        "Total Distances": 3576.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 642.0,
+                "route": "o 23 13 14 1 43 39 46 19 59 7 o* "
+            },
+            {
+                "distance": 641.0,
+                "route": "o 17 56 61 33 11 65 34 o* "
+            },
+            {
+                "distance": 727.0,
+                "route": "o 16 22 36 41 0 63 75 44 50 12 30 o* "
+            },
+            {
+                "distance": 482.0,
+                "route": "o 48 66 8 10 6 2 18 24 70 20 o* "
+            },
+            {
+                "distance": 1084.0,
+                "route": "o 29 4 15 21 72 54 53 9 5 69 3 26 o* "
+            }
+        ]
+    },
+    "V_50medium_3": {
+        "Total Distances": 3526.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 983.0,
+                "route": "o 20 6 5 7 36 13 62 12 45 3 o* "
+            },
+            {
+                "distance": 666.0,
+                "route": "o 60 57 10 4 9 39 22 48 14 o* "
+            },
+            {
+                "distance": 625.0,
+                "route": "o 40 21 58 67 47 27 2 73 51 34 19 o* "
+            },
+            {
+                "distance": 659.0,
+                "route": "o 16 0 29 31 1 15 75 65 33 43 71 o* "
+            },
+            {
+                "distance": 593.0,
+                "route": "o 55 25 52 11 8 69 23 17 18 o* "
+            }
+        ]
+    },
+    "V_50medium_4": {
+        "Total Distances": 4275.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 890.0,
+                "route": "o 50 14 58 67 49 0 47 8 6 28 o* "
+            },
+            {
+                "distance": 931.0,
+                "route": "o 16 21 19 12 23 15 41 27 43 69 o* "
+            },
+            {
+                "distance": 915.0,
+                "route": "o 38 24 75 33 73 63 37 20 13 o* "
+            },
+            {
+                "distance": 1021.0,
+                "route": "o 60 1 3 4 17 70 57 55 7 30 o* "
+            },
+            {
+                "distance": 292.0,
+                "route": "o 10 5 11 44 18 35 9 o* "
+            },
+            {
+                "distance": 226.0,
+                "route": "o 64 22 53 2 o* "
+            }
+        ]
+    },
+    "V_50medium_5": {
+        "Total Distances": 3937.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 957.0,
+                "route": "o 30 21 18 17 14 28 4 69 7 73 o* "
+            },
+            {
+                "distance": 1361.0,
+                "route": "o 67 16 22 65 6 57 15 23 19 3 75 o* "
+            },
+            {
+                "distance": 414.0,
+                "route": "o 20 39 2 55 49 45 0 25 59 1 o* "
+            },
+            {
+                "distance": 860.0,
+                "route": "o 70 13 8 43 51 10 5 63 12 o* "
+            },
+            {
+                "distance": 345.0,
+                "route": "o 35 47 9 33 61 26 11 41 53 37 o* "
+            }
+        ]
+    },
+    "V_50medium_6": {
+        "Total Distances": 4223.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 744.0,
+                "route": "o 22 19 14 57 63 73 25 0 26 o* "
+            },
+            {
+                "distance": 890.0,
+                "route": "o 18 23 9 75 2 69 47 4 5 3 o* "
+            },
+            {
+                "distance": 694.0,
+                "route": "o 38 52 1 29 65 43 11 20 58 60 o* "
+            },
+            {
+                "distance": 880.0,
+                "route": "o 37 10 8 51 31 15 34 12 6 49 33 o* "
+            },
+            {
+                "distance": 1015.0,
+                "route": "o 71 7 41 55 13 21 16 44 66 17 o* "
+            }
+        ]
+    },
+    "V_50medium_7": {
+        "Total Distances": 3078.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 1028.0,
+                "route": "o 46 49 43 24 14 17 19 15 16 o* "
+            },
+            {
+                "distance": 231.0,
+                "route": "o 33 37 52 45 59 31 67 12 o* "
+            },
+            {
+                "distance": 137.0,
+                "route": "o 21 0 5 29 57 o* "
+            },
+            {
+                "distance": 721.0,
+                "route": "o 62 18 64 26 74 20 68 50 o* "
+            },
+            {
+                "distance": 512.0,
+                "route": "o 71 9 3 10 2 1 54 38 22 23 o* "
+            },
+            {
+                "distance": 449.0,
+                "route": "o 41 35 61 6 7 8 4 13 11 73 o* "
+            }
+        ]
+    },
+    "V_50medium_8": {
+        "Total Distances": 3574.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 571.0,
+                "route": "o 75 5 9 2 3 18 22 58 43 29 o* "
+            },
+            {
+                "distance": 911.0,
+                "route": "o 0 21 16 62 40 35 47 25 45 65 o* "
+            },
+            {
+                "distance": 671.0,
+                "route": "o 31 23 17 13 11 69 4 6 52 14 o* "
+            },
+            {
+                "distance": 706.0,
+                "route": "o 60 15 50 48 32 19 71 1 73 o* "
+            },
+            {
+                "distance": 715.0,
+                "route": "o 20 37 7 10 12 55 39 56 67 27 8 o* "
+            }
+        ]
+    },
+    "V_50medium_9": {
+        "Total Distances": 3714.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 1261.0,
+                "route": "o 28 20 9 67 22 13 64 16 0 18 o* "
+            },
+            {
+                "distance": 253.0,
+                "route": "o 36 1 7 10 59 21 12 o* "
+            },
+            {
+                "distance": 286.0,
+                "route": "o 69 2 75 53 47 57 11 73 o* "
+            },
+            {
+                "distance": 314.0,
+                "route": "o 23 71 61 27 25 5 3 o* "
+            },
+            {
+                "distance": 942.0,
+                "route": "o 63 6 14 48 50 19 45 43 17 o* "
+            },
+            {
+                "distance": 658.0,
+                "route": "o 38 40 35 8 4 15 30 54 32 o* "
+            }
+        ]
+    },
+    "V_50small_10": {
+        "Total Distances": 4532.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 1049.0,
+                "route": "o 16 22 5 4 6 18 73 8 9 14 o* "
+            },
+            {
+                "distance": 1280.0,
+                "route": "o 19 10 63 27 1 61 38 28 17 15 o* "
+            },
+            {
+                "distance": 425.0,
+                "route": "o 12 58 66 64 13 o* "
+            },
+            {
+                "distance": 147.0,
+                "route": "o 47 0 43 2 41 3 45 7 20 o* "
+            },
+            {
+                "distance": 1039.0,
+                "route": "o 68 74 71 35 11 49 57 24 23 o* "
+            },
+            {
+                "distance": 592.0,
+                "route": "o 21 52 33 55 51 36 30 o* "
+            }
+        ]
+    },
+    "V_50small_1": {
+        "Total Distances": 5027.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 1009.0,
+                "route": "o 33 18 1 10 29 39 15 13 50 o* "
+            },
+            {
+                "distance": 1385.0,
+                "route": "o 19 12 22 5 9 25 4 11 52 21 o* "
+            },
+            {
+                "distance": 469.0,
+                "route": "o 16 67 55 6 14 27 37 40 2 49 3 o* "
+            },
+            {
+                "distance": 1034.0,
+                "route": "o 71 57 47 63 65 7 20 8 31 73 o* "
+            },
+            {
+                "distance": 1130.0,
+                "route": "o 44 74 34 17 59 0 43 68 60 23 o* "
+            }
+        ]
+    },
+    "V_50small_2": {
+        "Total Distances": 4694.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 967.0,
+                "route": "o 9 35 65 0 11 39 4 8 1 23 o* "
+            },
+            {
+                "distance": 698.0,
+                "route": "o 22 19 27 45 33 14 40 13 o* "
+            },
+            {
+                "distance": 812.0,
+                "route": "o 16 74 6 57 49 42 46 12 28 52 o* "
+            },
+            {
+                "distance": 151.0,
+                "route": "o 18 37 3 10 o* "
+            },
+            {
+                "distance": 961.0,
+                "route": "o 17 54 63 61 72 51 2 59 15 o* "
+            },
+            {
+                "distance": 1105.0,
+                "route": "o 24 21 67 5 7 70 20 68 30 o* "
+            }
+        ]
+    },
+    "V_50small_3": {
+        "Total Distances": 3934.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 552.0,
+                "route": "o 64 69 4 12 21 46 58 o* "
+            },
+            {
+                "distance": 621.0,
+                "route": "o 9 0 39 30 41 53 57 5 66 19 o* "
+            },
+            {
+                "distance": 717.0,
+                "route": "o 44 49 8 6 50 74 17 33 3 o* "
+            },
+            {
+                "distance": 891.0,
+                "route": "o 15 72 20 23 29 27 63 11 43 o* "
+            },
+            {
+                "distance": 960.0,
+                "route": "o 54 71 10 14 16 18 22 60 7 25 o* "
+            },
+            {
+                "distance": 193.0,
+                "route": "o 37 35 1 2 13 o* "
+            }
+        ]
+    },
+    "V_50small_4": {
+        "Total Distances": 3387.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 799.0,
+                "route": "o 58 28 20 44 16 14 53 43 47 o* "
+            },
+            {
+                "distance": 830.0,
+                "route": "o 34 5 61 22 11 49 7 8 73 37 65 o* "
+            },
+            {
+                "distance": 594.0,
+                "route": "o 1 57 24 15 21 19 31 75 39 67 o* "
+            },
+            {
+                "distance": 366.0,
+                "route": "o 4 2 6 3 68 13 17 62 12 10 o* "
+            },
+            {
+                "distance": 798.0,
+                "route": "o 41 33 71 9 51 0 55 27 18 23 o* "
+            }
+        ]
+    },
+    "V_50small_5": {
+        "Total Distances": 3198.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 940.0,
+                "route": "o 31 11 20 48 23 59 18 14 12 19 o* "
+            },
+            {
+                "distance": 936.0,
+                "route": "o 40 65 1 39 16 21 57 53 71 10 22 o* "
+            },
+            {
+                "distance": 638.0,
+                "route": "o 7 33 35 29 2 51 42 17 15 72 o* "
+            },
+            {
+                "distance": 258.0,
+                "route": "o 69 63 9 8 27 37 45 5 25 o* "
+            },
+            {
+                "distance": 426.0,
+                "route": "o 0 4 6 67 13 60 55 47 3 75 o* "
+            }
+        ]
+    },
+    "V_50small_6": {
+        "Total Distances": 4343.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 468.0,
+                "route": "o 19 45 67 33 31 49 75 47 4 53 o* "
+            },
+            {
+                "distance": 552.0,
+                "route": "o 63 61 51 59 0 27 39 73 2 o* "
+            },
+            {
+                "distance": 1187.0,
+                "route": "o 55 41 9 23 13 17 21 28 o* "
+            },
+            {
+                "distance": 1088.0,
+                "route": "o 10 11 1 3 7 24 20 12 22 o* "
+            },
+            {
+                "distance": 912.0,
+                "route": "o 8 16 70 57 37 69 64 42 15 14 o* "
+            },
+            {
+                "distance": 136.0,
+                "route": "o 5 35 6 18 o* "
+            }
+        ]
+    },
+    "V_50small_7": {
+        "Total Distances": 4644.0,
+        "Total Vehicles": 5.0,
+        "Routes": [
+            {
+                "distance": 717.0,
+                "route": "o 56 45 25 5 10 67 39 6 49 63 o* "
+            },
+            {
+                "distance": 1270.0,
+                "route": "o 14 55 9 4 1 42 50 17 40 26 o* "
+            },
+            {
+                "distance": 1138.0,
+                "route": "o 18 59 31 29 2 11 23 46 16 20 o* "
+            },
+            {
+                "distance": 1153.0,
+                "route": "o 15 22 36 21 19 74 68 3 8 52 o* "
+            },
+            {
+                "distance": 366.0,
+                "route": "o 12 33 65 13 34 71 61 7 0 73 o* "
+            }
+        ]
+    },
+    "V_50small_8": {
+        "Total Distances": 5347.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 774.0,
+                "route": "o 75 2 51 57 29 49 11 60 43 59 o* "
+            },
+            {
+                "distance": 1046.0,
+                "route": "o 23 22 9 67 0 31 8 6 65 54 o* "
+            },
+            {
+                "distance": 1545.0,
+                "route": "o 15 21 38 14 5 7 10 44 17 34 o* "
+            },
+            {
+                "distance": 198.0,
+                "route": "o 18 o* "
+            },
+            {
+                "distance": 710.0,
+                "route": "o 24 13 37 69 27 4 3 33 40 16 o* "
+            },
+            {
+                "distance": 1074.0,
+                "route": "o 47 19 20 62 12 52 73 1 70 o* "
+            }
+        ]
+    },
+    "V_50small_9": {
+        "Total Distances": 4082.0,
+        "Total Vehicles": 6.0,
+        "Routes": [
+            {
+                "distance": 594.0,
+                "route": "o 26 58 45 4 7 25 50 o* "
+            },
+            {
+                "distance": 1109.0,
+                "route": "o 18 14 17 8 53 43 3 11 70 o* "
+            },
+            {
+                "distance": 906.0,
+                "route": "o 54 0 10 2 75 5 35 67 68 19 o* "
+            },
+            {
+                "distance": 882.0,
+                "route": "o 13 12 23 21 16 20 49 61 63 o* "
+            },
+            {
+                "distance": 412.0,
+                "route": "o 47 29 6 73 30 15 40 o* "
+            },
+            {
+                "distance": 179.0,
+                "route": "o 56 9 39 37 1 33 65 22 o* "
+            }
+        ]
+    }
+}
